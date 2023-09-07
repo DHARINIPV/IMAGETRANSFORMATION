@@ -31,6 +31,7 @@ Crop the image.
 ### Step8:
 Display all the transformed images.
 
+
 ## Program:
 ```python
 Developed By: Dharini PV
@@ -138,17 +139,22 @@ plt.show()
 ### i)Image Translation
 ![Screenshot from 2023-09-07 21-50-58](https://github.com/DHARINIPV/IMAGETRANSFORMATION/assets/119400845/df573749-460b-4abc-9560-b4f01b900d5c)
 
+
 ### ii) Image Scaling
 ![Screenshot from 2023-09-07 21-53-22](https://github.com/DHARINIPV/IMAGETRANSFORMATION/assets/119400845/21898650-f366-49f7-8450-354d51b052f8)
+
 
 ### iii)Image shearing
 ![Screenshot from 2023-09-07 21-54-56](https://github.com/DHARINIPV/IMAGETRANSFORMATION/assets/119400845/fc0f643a-5443-4248-a673-8b00d12ecc0a)
 
+
 ### iv)Image Reflection
 ![Screenshot from 2023-09-07 21-56-01](https://github.com/DHARINIPV/IMAGETRANSFORMATION/assets/119400845/d762d162-82fb-4d4c-97fd-e395eade7606)
 
+
 ### v)Image Rotation
 ![Screenshot from 2023-09-07 21-59-11](https://github.com/DHARINIPV/IMAGETRANSFORMATION/assets/119400845/9562bc90-08b6-4018-90bb-198dd732ad39)
+
 
 ### vi)Image Cropping
 ![Screenshot from 2023-09-07 22-00-52](https://github.com/DHARINIPV/IMAGETRANSFORMATION/assets/119400845/5e386cda-6491-4070-9b5e-c18e2a30dd08)
